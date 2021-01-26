@@ -1,13 +1,10 @@
 {
   "name": "with-styled-components",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
   "scripts": {
     "dev": "next",
     "build": "next build",
-    "start": "next start",
-    "test": "jest"
+    "start": "next start"
   },
   "dependencies": {
     "next": "latest",
