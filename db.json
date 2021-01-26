@@ -1,12 +1,12 @@
 {
     "bg": "https://s3.amazonaws.com/prod.assets.thebanner/styles/article-large/s3/article/large/MM-420%20Cobra%20Kai.jpg?itok=FEftVpZs",
-    "title": "Quiz CSS da Alura",
+    "title": "Karate? Quando começou essa historia",
     "description": "Testes seus conhecimentos sobre a serie mais nostalgica que foi criado com os mestres do Karate",
     "questions": [
         {
             "image": "https://media.giphy.com/media/xUOxf3yDKCuwpOlT3i/giphy.gif",
             "title": "Como fazer um seletor por id via CSS?",
-            "description": "Essa é pra aquecer",
+            "description": "Tenho a minima ideia, mais vou descobrir",
             "answer": 2,
             "alternatives": [
                 ".elemento",
